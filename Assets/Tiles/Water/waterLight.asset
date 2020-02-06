@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: waterLight
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 3456535888617184886, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: 1729137684106667992, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: -6739724975586684423, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: 7301922595925254185, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: -7570669033742718479, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: 484290768216883713, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: 897733062169275695, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: 5815086663283848139, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: 5944558812956208001, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: 7008444010342544811, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: -1876364089172423736, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: -5178647804560251376, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: -85737557632343400, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: 8183279982046164748, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: 6452418378228147324, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  - {fileID: -6387155029340944656, guid: 30c46869b3dd9f443ba455076c858716, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0
